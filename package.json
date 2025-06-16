@@ -4,6 +4,7 @@
   "version": "0.0.0",
   "type": "module",
   "homepage": "https://fedotovarita.github.io/dummy-landing-page/",
+  "repository": "https://github.com/fedotovarita/dummy-landing-page",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
